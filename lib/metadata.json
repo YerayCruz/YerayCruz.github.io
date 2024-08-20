@@ -1,0 +1,576 @@
+{
+  "vaultName": "Obsidian Vault",
+  "lastExport": 1724111979298,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager show-inline-title show-ribbon theme-dark",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "How to fold it/Chapter 1 - Part 1 - Annulus.md",
+    "How to fold it/Chapter 1 - Part 2 - Reaching Angles.md",
+    "How to fold it/Chapter 2 - Straight-Line Linkages and the Pantograph.md",
+    "How to fold it/Chapter 3 - Protein Folding and Pop-Up Cards.md",
+    "How to fold it/Chapter 4 - Flat vertex folds.md",
+    "How to fold it/Chapter 5 - Fold and One-Cut.md",
+    "Inverse design of programmable/Inverse design of programmable shape-morphing kirigami structures..md",
+    "Inverse design of programmable/Pasted image 20240620125507.png",
+    "Inverse design of programmable/Pasted image 20240620125955.png",
+    "Inverse design of programmable/Pasted image 20240620130643.png",
+    "Inverse design of programmable/Pasted image 20240620131717.png",
+    "Inverse design of programmable/Pasted image 20240620132247.png",
+    "Inverse design of programmable/Pasted image 20240620145106.png",
+    "Inverse design of programmable/Pasted image 20240620145731.png",
+    "Inverse design of programmable/Pasted image 20240620150836.png",
+    "Magnteic Micro-Origami/Magnetic Micro-Origami.md",
+    "Magnteic Micro-Origami/Pasted image 20240618134701.png",
+    "Magnteic Micro-Origami/Pasted image 20240618142559.png",
+    "Magnteic Micro-Origami/Pasted image 20240618153306.png",
+    "Magnteic Micro-Origami/Pasted image 20240618160351.png",
+    "Magnteic Micro-Origami/Pasted image 20240618160945.png",
+    "Magnteic Micro-Origami/Pasted image 20240618161008.png",
+    "Genetic Algorithm Example.md",
+    "index.md",
+    "Junta 19-06-2024.md",
+    "Kepler's Law Quiz.md",
+    "Mi trayecto.md",
+    "Nanomagnetic Encoding of Shape-Morphing Micromachines.md",
+    "On-Surface Locomotion of Particle Based Microrobots Using Magnetically Induced Oscillation..md",
+    "Prototipo.md",
+    "Purcell’s Three-Link Microswimmer Based on IPMC - Simulations in COMSOL Multiphysics.md",
+    "Realization of the najafi-golestanian microswimmer..md",
+    "Semana 1 (Semestre 2).md",
+    "Semana 2 (Semestre 2).md",
+    "Shape-Programmable Adaptive Multi-Material Microswimmers for Biomedical Applications..md",
+    "Sperm-Shaped Magnetic Microrobots - Fabrication using Electrospinning, Modeling, and Characterization..md",
+    "Symmetries and gaits for purcell's three-link microswimmer model..md",
+    "Tarea..md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
+  ],
+  "fileInfo": {
+    "How to fold it/Chapter 1 - Part 1 - Annulus.md": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 1479,
+      "exportedPath": "How to fold it/Chapter 1 - Part 1 - Annulus.html",
+      "dependencies": []
+    },
+    "How to fold it/Chapter 1 - Part 2 - Reaching Angles.md": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 1831,
+      "exportedPath": "How to fold it/Chapter 1 - Part 2 - Reaching Angles.html",
+      "dependencies": []
+    },
+    "How to fold it/Chapter 2 - Straight-Line Linkages and the Pantograph.md": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 3100,
+      "exportedPath": "How to fold it/Chapter 2 - Straight-Line Linkages and the Pantograph.html",
+      "dependencies": []
+    },
+    "How to fold it/Chapter 3 - Protein Folding and Pop-Up Cards.md": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 3135,
+      "exportedPath": "How to fold it/Chapter 3 - Protein Folding and Pop-Up Cards.html",
+      "dependencies": []
+    },
+    "How to fold it/Chapter 4 - Flat vertex folds.md": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 3326,
+      "exportedPath": "How to fold it/Chapter 4 - Flat vertex folds.html",
+      "dependencies": []
+    },
+    "How to fold it/Chapter 5 - Fold and One-Cut.md": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 1292,
+      "exportedPath": "How to fold it/Chapter 5 - Fold and One-Cut.html",
+      "dependencies": []
+    },
+    "Inverse design of programmable/Inverse design of programmable shape-morphing kirigami structures..md": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 5096,
+      "exportedPath": "Inverse design of programmable/Inverse design of programmable shape-morphing kirigami structures..html",
+      "dependencies": []
+    },
+    "Inverse design of programmable/Pasted image 20240620125507.png": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 24380,
+      "exportedPath": "Inverse design of programmable/Pasted image 20240620125507.png",
+      "dependencies": []
+    },
+    "Inverse design of programmable/Pasted image 20240620125955.png": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 12172,
+      "exportedPath": "Inverse design of programmable/Pasted image 20240620125955.png",
+      "dependencies": []
+    },
+    "Inverse design of programmable/Pasted image 20240620130643.png": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 29304,
+      "exportedPath": "Inverse design of programmable/Pasted image 20240620130643.png",
+      "dependencies": []
+    },
+    "Inverse design of programmable/Pasted image 20240620131717.png": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 35751,
+      "exportedPath": "Inverse design of programmable/Pasted image 20240620131717.png",
+      "dependencies": []
+    },
+    "Inverse design of programmable/Pasted image 20240620132247.png": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 166804,
+      "exportedPath": "Inverse design of programmable/Pasted image 20240620132247.png",
+      "dependencies": []
+    },
+    "Inverse design of programmable/Pasted image 20240620145106.png": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 25281,
+      "exportedPath": "Inverse design of programmable/Pasted image 20240620145106.png",
+      "dependencies": []
+    },
+    "Inverse design of programmable/Pasted image 20240620145731.png": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 27240,
+      "exportedPath": "Inverse design of programmable/Pasted image 20240620145731.png",
+      "dependencies": []
+    },
+    "Inverse design of programmable/Pasted image 20240620150836.png": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 81451,
+      "exportedPath": "Inverse design of programmable/Pasted image 20240620150836.png",
+      "dependencies": []
+    },
+    "Magnteic Micro-Origami/Magnetic Micro-Origami.md": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 10400,
+      "exportedPath": "Magnteic Micro-Origami/Magnetic Micro-Origami.html",
+      "dependencies": []
+    },
+    "Magnteic Micro-Origami/Pasted image 20240618134701.png": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 509746,
+      "exportedPath": "Magnteic Micro-Origami/Pasted image 20240618134701.png",
+      "dependencies": []
+    },
+    "Magnteic Micro-Origami/Pasted image 20240618142559.png": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 383898,
+      "exportedPath": "Magnteic Micro-Origami/Pasted image 20240618142559.png",
+      "dependencies": []
+    },
+    "Magnteic Micro-Origami/Pasted image 20240618153306.png": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 586830,
+      "exportedPath": "Magnteic Micro-Origami/Pasted image 20240618153306.png",
+      "dependencies": []
+    },
+    "Magnteic Micro-Origami/Pasted image 20240618160351.png": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 351238,
+      "exportedPath": "Magnteic Micro-Origami/Pasted image 20240618160351.png",
+      "dependencies": []
+    },
+    "Magnteic Micro-Origami/Pasted image 20240618160945.png": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 464456,
+      "exportedPath": "Magnteic Micro-Origami/Pasted image 20240618160945.png",
+      "dependencies": []
+    },
+    "Magnteic Micro-Origami/Pasted image 20240618161008.png": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 494726,
+      "exportedPath": "Magnteic Micro-Origami/Pasted image 20240618161008.png",
+      "dependencies": []
+    },
+    "Genetic Algorithm Example.md": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 3198,
+      "exportedPath": "Genetic Algorithm Example.html",
+      "dependencies": []
+    },
+    "Junta 19-06-2024.md": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 752,
+      "exportedPath": "Junta 19-06-2024.html",
+      "dependencies": []
+    },
+    "Kepler's Law Quiz.md": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 4189,
+      "exportedPath": "Kepler's Law Quiz.html",
+      "dependencies": []
+    },
+    "Mi trayecto.md": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 156,
+      "exportedPath": "Mi trayecto.html",
+      "dependencies": []
+    },
+    "Nanomagnetic Encoding of Shape-Morphing Micromachines.md": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 2157,
+      "exportedPath": "Nanomagnetic Encoding of Shape-Morphing Micromachines.html",
+      "dependencies": []
+    },
+    "On-Surface Locomotion of Particle Based Microrobots Using Magnetically Induced Oscillation..md": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 1458,
+      "exportedPath": "On-Surface Locomotion of Particle Based Microrobots Using Magnetically Induced Oscillation..html",
+      "dependencies": []
+    },
+    "Prototipo.md": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 408,
+      "exportedPath": "Prototipo.html",
+      "dependencies": []
+    },
+    "Purcell’s Three-Link Microswimmer Based on IPMC - Simulations in COMSOL Multiphysics.md": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 1774,
+      "exportedPath": "Purcell’s Three-Link Microswimmer Based on IPMC - Simulations in COMSOL Multiphysics.html",
+      "dependencies": []
+    },
+    "Realization of the najafi-golestanian microswimmer..md": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 1759,
+      "exportedPath": "Realization of the najafi-golestanian microswimmer..html",
+      "dependencies": []
+    },
+    "Semana 1 (Semestre 2).md": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 2079,
+      "exportedPath": "Semana 1 (Semestre 2).html",
+      "dependencies": []
+    },
+    "Semana 2 (Semestre 2).md": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 2140,
+      "exportedPath": "Semana 2 (Semestre 2).html",
+      "dependencies": []
+    },
+    "Shape-Programmable Adaptive Multi-Material Microswimmers for Biomedical Applications..md": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 1497,
+      "exportedPath": "Shape-Programmable Adaptive Multi-Material Microswimmers for Biomedical Applications..html",
+      "dependencies": []
+    },
+    "Sperm-Shaped Magnetic Microrobots - Fabrication using Electrospinning, Modeling, and Characterization..md": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 1188,
+      "exportedPath": "Sperm-Shaped Magnetic Microrobots - Fabrication using Electrospinning, Modeling, and Characterization..html",
+      "dependencies": []
+    },
+    "Symmetries and gaits for purcell's three-link microswimmer model..md": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 1609,
+      "exportedPath": "Symmetries and gaits for purcell's three-link microswimmer model..html",
+      "dependencies": []
+    },
+    "Tarea..md": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 158,
+      "exportedPath": "Tarea..html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Zero.woff": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/MathJax_Zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Regular.woff": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Bold.woff": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-Italic.woff": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Italic.woff": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-BoldItalic.woff": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size1-Regular.woff": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size2-Regular.woff": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size3-Regular.woff": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size4-Regular.woff": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_AMS-Regular.woff": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Regular.woff": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Bold.woff": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Regular.woff": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Bold.woff": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Regular.woff": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Bold.woff": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Italic.woff": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Script-Regular.woff": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Typewriter-Regular.woff": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Regular.woff": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Bold.woff": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1724111979298,
+      "sourceSize": 0,
+      "exportedPath": "index.html",
+      "dependencies": []
+    }
+  }
+}
